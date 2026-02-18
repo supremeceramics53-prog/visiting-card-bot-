@@ -1,14 +1,10 @@
 python-telegram-bot==20.7
-
 pytesseract
 opencv-python-headless
 numpy
 Pillow
-
 python-dotenv
 pytz
-
 gspread
 google-auth
-
 groq
